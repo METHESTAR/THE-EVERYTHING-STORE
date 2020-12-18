@@ -1,0 +1,27 @@
+*{
+    background-color: bisque;
+    border:solid;
+    border-color: rgb(0, 20, 51);
+}
+
+.header{
+    background-color: coral;
+}
+
+.main{
+    display: flex;
+    flex-wrap : wrap
+    
+}
+
+.grid{
+    display: flex;
+    flex-wrap : wrap;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+
+p{
+    text-align:center
+}
